@@ -14,5 +14,11 @@
   "type": "module",
   "workspaces": [
     "src/dkeeper_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@dfinity/agent": "^2.2.0",
+    "@emotion/cache": "^11.14.0",
+    "@emotion/react": "^11.14.0",
+    "prop-types": "^15.8.1"
+  }
 }
